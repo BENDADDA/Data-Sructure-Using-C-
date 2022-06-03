@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ds::DynamicArray&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAADABEBIAAAQAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>DynamicArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::LinkedList&lt;T&gt;" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAABAAgBAAAACAAIAABQAAAAEIAAAAAAgAAAAAAgA=</HashCode>
+      <FileName>LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::Stack&lt;T&gt;" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAEAAAACIAAAQgAgACAAAAAAAAAAABACAA=</HashCode>
+      <FileName>Stack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ds::Queue&lt;T&gt;">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAADAEAAAAAIAAAQQAQAgABAAAAAAAAABAAAA=</HashCode>
+      <FileName>Queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ds::Node&lt;T1&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAMAAAA=</HashCode>
+      <FileName>Node.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="8.25" />
+</ClassDiagram>
